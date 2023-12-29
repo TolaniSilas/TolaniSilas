@@ -65,6 +65,6 @@ while True:
                     
                 print(divide(num1,num2))
     
-    # raise ValueE            
+    # raise ValueError if user_input prompt accepts any other input apart from those listed in the instruction menu.            
     except ValueError:
         print("Oops! Read the help instruction!")
