@@ -2,7 +2,7 @@
 
 # Hi, I'm Osunba Silas🥷👨🏽‍💻 <br>
 
-# A Machine Learning Engineer and Data Scientist.
+## A Machine Learning Engineer and Data Scientist.
 
 **•** 🥷 I'm currently working on **Machine Learning, Deep Learning, and Computer Vision**
 
