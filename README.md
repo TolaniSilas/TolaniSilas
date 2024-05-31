@@ -14,4 +14,6 @@
 
   **•** ♣️ Fun fact: **I love reading AI research papers, solving & learning Mathematics concepts, and playing Snooker**
 
+## Connect with me 
+
 
