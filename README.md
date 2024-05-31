@@ -4,14 +4,14 @@
 
 #### A Machine Learning Engineer and Data Scientist.
 
-I'm currently working on **Machine Learning, Deep Learning, and Computer Vision**
+• 🥷I'm currently working on **Machine Learning, Deep Learning, and Computer Vision**
 
-I'm looking forward to collaborating on **Data Science & Machine Learning Projects**
+• 👥I'm looking forward to collaborating on **Data Science & Machine Learning Projects**
 
-Ask me about **Python, Data Science, Machine Learning, Deep Learning, and Artificial Intelligence**
+• 💬Ask me about **Python, Data Science, Machine Learning, Deep Learning, and Artificial Intelligence**
 
-How to reach me: **tolanisilas3606@gmail.com**
+• 📩How to reach me: **tolanisilas3606@gmail.com**
 
-Fun fact: **I love reading AI papers, solving & learning Mathematics concepts, and playing Snooker**
+• ♣️Fun fact: **I love reading AI papers, solving & learning Mathematics concepts, and playing Snooker**
 
 
