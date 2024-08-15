@@ -4,7 +4,7 @@
 
 ## A Machine Learning Engineer and Data Scientist.
 
-  **•** 🥷 I'm currently working on **Data Science, Machine Learning, and Artificial Intelligence**
+  **•** 🥷 I'm currently learning **Data Science, Machine Learning, and Artificial Intelligence**
 
   **•** 👥 I'm looking forward to collaborating on **Data Science & Machine Learning Projects**
 
