@@ -10,9 +10,9 @@
 
   **•** 💬 Ask me about **Python, Data Science, Machine Learning, Deep Learning, and Artificial Intelligence**
 
-  **•** 📩 How to reach me: **tolanisilas3606@gmail.com**
+  **•** 📩 How to reach me: **osunbasilas@gmail.com**
 
-  **•** ♣️ Fun fact: **I love reading AI research papers, solving & learning Mathematics concepts, and playing Snooker**
+  **•** ♣️ Fun fact: **i love reading ai research papers, solving & learning mathematics concepts, and i am a good snooker player**
 
 ## Connect with me 
 
