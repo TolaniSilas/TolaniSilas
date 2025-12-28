@@ -1,6 +1,5 @@
 # Hi, I'm Silas Osunba 🥷👨🏽‍💻
 
-## About Me
 I am a professional **Machine Learning Engineer** passionate about providing intelligence to machines. I earned a baccalaureate degree in **Electronic and Computer Engineering**, with a concentration in machine intelligence and neural networks.
 
 - 🥷 Currently working on complex and intriguing **Artificial Intelligence projects**.  
