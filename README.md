@@ -9,16 +9,6 @@ I am a professional **Machine Learning Engineer** passionate about providing int
 
 ---
 
-## Connect with Me
-i'm super active and you can find me on these platforms:  
-
-- 🐦 **X (Twitter):** [Silas Osunba](https://https://x.com/thaguymaxx)  
-- 💼 **LinkedIn:** [Silas Osunba](https://www.linkedin.com/in/osunbasilas/)  
-- 📝 **Medium:** [Silas Osunba](https://medium.com/@tolanisilas3606)  
-- 🎓 **Google Scholar:** [Silas Osunba](https://scholar.google.com/citations?user=akIRrWwAAAAJ&hl=en)  
-
----
-
 ## Skills & Expertise
 
 ### Languages
