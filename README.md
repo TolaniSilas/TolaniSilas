@@ -33,14 +33,13 @@ i'm super active and you can find me on these platforms:
 ### Areas of Expertise
 - Machine Learning & Deep Learning  
 - Computer Vision & Robotics  
-- AI Agents & NLP  
-- Data Analysis & Modeling  
+- AI Agents
 
 ---
 
 ## Portfolio
 check out my website:
-[**My Portfolio Website**](https://osunbasilasdev.vercel.app/)  
+[**my portfolio website**](https://osunbasilasdev.vercel.app/)  
 
 ---
 
