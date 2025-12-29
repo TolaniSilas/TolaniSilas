@@ -31,5 +31,3 @@ I am a professional **Machine Learning Engineer** passionate about providing int
 check out my website:
 [**my portfolio website**](https://osunbasilasdev.vercel.app/)  
 
----
-
