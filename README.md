@@ -1,6 +1,7 @@
 # Hi, I'm Silas Osunba 👨🏽‍💻
 
-I am a professional **Software ML Engineer** passionate about providing intelligence to machines. I earned a baccalaureate degree in **Electronic and Computer Engineering**, with a concentration in machine intelligence and neural networks.
+I am a profesional **Software ML Engineer** with expertise in designing and deploying scalable machine learning systems. I focus on building adaptive models that handle distribution shifts, optimizing ml pipelines for production, and creating systems that perform reliably in dynamic environments. I am on a mission on utilizing AI for **Social Good**. I earned a baccalaureate degree in **Electronic and Computer Engineering**, with a concentration in machine intelligence and neural networks.
+
 
 - 🥷 i'm currently working on complex and intriguing **artificial intelligence projects**.  
 - 👥 i'm interested in collaborating on **machine learning, computer vision, and robotics projects**, including making open-source contributions.  
