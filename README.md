@@ -18,7 +18,7 @@ I am a professional **Software ML Engineer** passionate about providing intellig
 - TensorFlow, PyTorch, OpenCV, Scikit-learn, Keras, LangChain, LangGraph, PydanticAI, Scikit-Learn
 
 ### Tools & Platforms
-- Git, Docker, Linux, Jupyter, Google Colab, VS Code, AWS  
+- Git, Docker, Linux, Jupyter, Google Colab, VS Code, AWS
 
 ### Areas of Expertise
 - Machine Learning & Deep Learning  
@@ -28,6 +28,5 @@ I am a professional **Software ML Engineer** passionate about providing intellig
 ---
 
 ## Portfolio
-check out my website:
-[**my portfolio website**](https://osunbasilasdev.vercel.app/)  
-
+check out my portfolio website:
+[**Silas Osunba**](https://osunbasilasdev.vercel.app/)
