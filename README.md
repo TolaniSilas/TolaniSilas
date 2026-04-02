@@ -1,13 +1,13 @@
 # Silas Osunba
 Python Developer | ML Engineer | AI Engineer
 
-My expertise is in designing and deploying scalable machine learning systems. I focus on building adaptive models that handle distribution shifts, optimizing ml pipelines for production, and creating systems that perform safely and reliably in dynamic environments. I earned a baccalaureate degree in **Electronic and Computer Engineering**, with a concentration in machine intelligence and neural networks.
+My expertise is in designing and deploying scalable machine learning systems. I focus on building adaptive models that handle distribution shifts, optimizing ml pipelines for production, and creating systems that perform safely and reliably in dynamic environments. I earned a baccalaureate degree in **Electronic and Computer Engineering**, with a concentration in software engineering, machine intelligence and neural networks.
 
 
 - 🥷 i'm currently working on intriguing **artificial intelligence projects**.  
 - 👥 i'm interested in collaborating on **machine learning, computer vision, and robotics projects**, including making open-source contributions.  
 - 📩 you can reach me at: **[osunbasilas@gmail.com](mailto:osunbasilas@gmail.com)**  
-- ♣️ fun fact: i love typing in small letters.
+- ♣️ fun fact: i love reading AI research papers and i love typing in small letters.
 
 ---
 
@@ -18,6 +18,7 @@ My expertise is in designing and deploying scalable machine learning systems. I 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frameworks & Libraries  
