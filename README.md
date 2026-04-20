@@ -5,7 +5,7 @@ My expertise is in designing and deploying scalable machine learning systems. I 
 
 
 - 🥷 i'm currently working on intriguing **artificial intelligence projects**.  
-- 👥 i'm interested in collaborating on **machine learning, computer vision, and robotics projects**, including making open-source contributions.  
+- 👥 i'm interested in collaborating on **machine learning, computer vision, and autonomous systems projects**, including making open-source contributions.  
 - 📩 you can reach me at: **[osunbasilas@gmail.com](mailto:osunbasilas@gmail.com)**  
 - ♣️ fun fact: i love reading AI research papers and i love typing in small letters.
 
