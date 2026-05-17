@@ -1,5 +1,5 @@
 # Silas Osunba
-Python Developer | ML Engineer | AI Engineer
+Python Engineer | ML Engineer | AI Engineer
 
 My expertise is in designing and deploying scalable machine learning systems. I focus on building adaptive models that handle distribution shifts, optimizing ml pipelines for production, and creating systems that perform safely and reliably in dynamic environments. I earned a baccalaureate degree in **Electronic and Computer Engineering**, with a concentration in software engineering, machine intelligence and neural networks.
 
