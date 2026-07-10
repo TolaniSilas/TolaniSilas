@@ -43,9 +43,9 @@ My expertise is in designing and deploying scalable machine learning systems. I 
 ![Cursor](https://img.shields.io/badge/Cursor-2C2C2C?style=for-the-badge)
 
 ### Areas of Expertise
-- Machine Learning & Deep Learning  
-- Computer Vision & Robotics  
-- AI Agents
+- Machine Learning, Deep Learning, Large Language Models
+- Computer Vision  
+- AI Agents, Reinforcement Learning 
 
 ---
 
